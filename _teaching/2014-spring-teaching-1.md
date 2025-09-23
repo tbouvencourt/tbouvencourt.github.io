@@ -8,14 +8,12 @@ date: "01-09-2023"
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-This is a description of a student tutor teaching experience. You can use markdown like any other post.
-
-Heading 1
+Description
 ======
 
 As a student tutor, I assisted undergraduate students in developing their programming skills.
 
-Heading 2
+Details
 ======
 
 Courses I contributed :
@@ -26,7 +24,7 @@ Courses I contributed :
 - **LINFO1002 – Project 2 (Web development)**
 - **LINFO1121 – Algorithms and Data Structures**
 
-Heading 3
+Supervisory Responsibilities
 ======
 
 My role involved guiding students through exercises, providing feedback on projects, and helping them understand core programming concepts.

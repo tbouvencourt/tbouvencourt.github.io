@@ -8,14 +8,12 @@ date: "01-09-2025"
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-This is a description of a PhD student teaching experience. You can use markdown like any other post.
-
-Heading 1
+Description
 ======
 
 As a PhD student, I supervise courses and projects, supporting students in different course.
 
-Heading 2
+Details
 ======
 
 Courses I contributed to include:
@@ -23,7 +21,7 @@ Courses I contributed to include:
 - **LINFO1212 - Projet approfondissement en informatique (Web Development)**
 - **LINFO1361 - Intelligence Artificielle (Introduction to AI)**
 
-Heading 3
+Supervisory Responsibilities
 ======
 
 My responsibilities included supervising project work, explaining concepts, and mentoring students.

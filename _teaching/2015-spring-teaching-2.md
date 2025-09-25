@@ -8,9 +8,6 @@ date: "01-09-2025"
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-Description
-======
-
 As a PhD student, I supervise courses and projects, supporting students in different course.
 
 Details

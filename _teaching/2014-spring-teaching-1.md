@@ -8,7 +8,7 @@ date: "01-09-2023"
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-Description
+---
 ======
 
 As a student tutor, I assisted undergraduate students in developing their programming skills.
